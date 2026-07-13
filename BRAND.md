@@ -138,3 +138,11 @@ Chinese bamboo tree — years of watering with little visible growth, then it gr
   and for customers.
 - **Living document:** revisit these each quarter against real retention, referral,
   and NPS data. "I can do better" applies to the brand strategy too.
+
+## Related
+
+- [`docs/voice-and-tone.md`](docs/voice-and-tone.md) — how the brand *sounds*: the
+  operational voice guide, codified from the live legalhandled.com copy (the working
+  arm of Principles 3 and 4).
+- [`docs/research/andy-frisella-brand-research.md`](docs/research/andy-frisella-brand-research.md)
+  — the sourced research these principles are built on.
