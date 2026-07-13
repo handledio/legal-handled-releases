@@ -147,5 +147,8 @@ Chinese bamboo tree — years of watering with little visible growth, then it gr
 - [`docs/in-app-microcopy.md`](docs/in-app-microcopy.md) — ready-to-use copy for
   empty states, errors, confirmations, and the billing/cancellation flow, applying
   the voice guide to the surfaces the marketing site doesn't cover.
+- [`docs/emails/transactional-emails.md`](docs/emails/transactional-emails.md) —
+  copy for the automated lifecycle emails (welcome, trial reminders, payment issues,
+  backup nudges, win-back), plain-text and founder-signed, ready to load into Resend.
 - [`docs/research/andy-frisella-brand-research.md`](docs/research/andy-frisella-brand-research.md)
   — the sourced research these principles are built on.
