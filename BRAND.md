@@ -144,5 +144,8 @@ Chinese bamboo tree — years of watering with little visible growth, then it gr
 - [`docs/voice-and-tone.md`](docs/voice-and-tone.md) — how the brand *sounds*: the
   operational voice guide, codified from the live legalhandled.com copy (the working
   arm of Principles 3 and 4).
+- [`docs/in-app-microcopy.md`](docs/in-app-microcopy.md) — ready-to-use copy for
+  empty states, errors, confirmations, and the billing/cancellation flow, applying
+  the voice guide to the surfaces the marketing site doesn't cover.
 - [`docs/research/andy-frisella-brand-research.md`](docs/research/andy-frisella-brand-research.md)
   — the sourced research these principles are built on.

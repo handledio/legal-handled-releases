@@ -10,6 +10,8 @@ as the reference recording of how Handled. sounds.
 
 This guide is the operational arm of [`/BRAND.md`](../BRAND.md) — especially
 Principle 3 (*be who you say you are*) and Principle 4 (*do the right thing*).
+For this voice applied to real in-app surfaces (empty states, errors, billing,
+cancellation), see [`docs/in-app-microcopy.md`](in-app-microcopy.md).
 
 ---
 
